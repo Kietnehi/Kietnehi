@@ -50,51 +50,32 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-  <!-- ObjectDetection_Using_YOLO Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
-    </a>
-  </div>    
+  <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
+  </a>    
 
-  <!-- ImageClassification Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/ImageClassification">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=synthwave" />
-    </a>
-  </div>
+  <a href="https://github.com/Kietnehi/ImageClassification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko" />
+  </a>
 
-  <!-- WebScrapingAndMakePredict Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
-    </a>
-  </div>    
+  <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
+  </a>    
 
-  <!-- DoAnFabricAgency Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/DoAnFabricAgency">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
-    </a>
-  </div>
-
-  <!-- Fake-news-detection Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/Fake-news-detection">
+  <a href="https://github.com/Kietnehi/DoAnFabricAgency">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
+  </a>
+  <a href="https://github.com/Kietnehi/Fake-news-detection">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=blue" />
     </a>
-  </div>
-
-  <!-- Housing-price-prediction Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/Housing_price_prediction">
+     <a href="https://github.com/Kietnehi/Housing_price_prediction">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
     </a>
-  </div>
-
 </div>
+
 
 
 
