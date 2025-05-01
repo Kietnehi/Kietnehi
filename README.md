@@ -1,5 +1,5 @@
 
-[![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)]([https://github.com/PhamThe-KHDL](https://github.com/Kietnehi))
+[![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
 ### WELCOME TO MY PAGE 👋👋👋
 👋 Hi there! I'm Phu Kiet
 
