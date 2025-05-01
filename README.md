@@ -21,7 +21,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kietnehi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<table style="width:100%;">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kietnehi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -35,9 +43,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="" />
 </a>    
-<a href="[https://github.com/vietnh1009/ASCII-generator/](https://github.com/Kietnehi/ImageClassification)">
+<a href="https://github.com/Kietnehi/ImageClassification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
 </a>
@@ -50,8 +58,4 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
 </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
