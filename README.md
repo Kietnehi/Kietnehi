@@ -57,21 +57,23 @@
 [![](https://visitcount.itsvg.in/api?id=Kietnehi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="" />
-</a>    
-<a href="https://github.com/Kietnehi/ImageClassification">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
-</a>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-<a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-<a href="https://github.com/Kietnehi/DoAnFabricAgency">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
-</a>
+  <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
+  </a>    
+
+  <a href="https://github.com/Kietnehi/ImageClassification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko" />
+  </a>
+
+  <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
+  </a>    
+
+  <a href="https://github.com/Kietnehi/DoAnFabricAgency">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
+  </a>
+
+</div>
 
