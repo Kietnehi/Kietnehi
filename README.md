@@ -58,13 +58,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <!-- ObjectDetection_Using_YOLO Repo -->
   <div style="text-align: center;">
     <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
-    </a>
+    </a>    
     <p><strong>Object Detection Using YOLO</strong></p>
     <p>This project focuses on implementing YOLO (You Only Look Once) for real-time object detection.</p>
   </div>    
