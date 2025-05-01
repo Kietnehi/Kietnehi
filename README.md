@@ -91,7 +91,7 @@
   <!-- Fake-news-detection Repo -->
   <div style="text-align: center;">
     <a href="https://github.com/Kietnehi/Fake-news-detection">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=blue" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula" />
     </a>
     <p><strong>Fake News Detection</strong></p>
     <p>This project aims to detect fake news using Natural Language Processing (NLP) and machine learning models.</p>
