@@ -69,7 +69,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
   </a>
   <a href="https://github.com/Kietnehi/Fake-news-detection">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=blue" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula" />
     </a>
      <a href="https://github.com/Kietnehi/Housing_price_prediction">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
