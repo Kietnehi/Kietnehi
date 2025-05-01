@@ -24,8 +24,6 @@ My name is Phu Kiet. I am currently student at SaiGon University and major in In
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kietnehi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kietnehi&icon=0&color=0)](https://visitcount.itsvg.in)
