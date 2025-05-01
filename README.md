@@ -59,43 +59,24 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-  <!-- ObjectDetection_Using_YOLO Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
-    </a>    
-    <p><strong>Object Detection Using YOLO</strong></p>
-    <p>This project focuses on implementing YOLO (You Only Look Once) for real-time object detection.</p>
-  </div>    
+  <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
+  </a>    
 
-  <!-- ImageClassification Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/ImageClassification">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko" />
-    </a>
-    <p><strong>Image Classification</strong></p>
-    <p>A deep learning project to classify images into various categories using neural networks.</p>
-  </div>
+  <a href="https://github.com/Kietnehi/ImageClassification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=synthwave" />
+  </a>
 
-  <!-- WebScrapingAndMakePredict Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
-    </a>
-    <p><strong>Web Scraping and Make Prediction</strong></p>
-    <p>This project collects data from websites and uses it for predictive modeling.</p>
-  </div>    
+  <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
+  </a>    
 
-  <!-- DoAnFabricAgency Repo -->
-  <div style="text-align: center;">
-    <a href="https://github.com/Kietnehi/DoAnFabricAgency">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
-    </a>
-    <p><strong>Fabric Agency Management</strong></p>
-    <p>A system to manage inventory and orders for a fabric agency, built using modern web technologies.</p>
-  </div>
+  <a href="https://github.com/Kietnehi/DoAnFabricAgency">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
+  </a>
 
 </div>
 
