@@ -57,8 +57,6 @@
     <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
     </a>
-    <p><strong>Object Detection Using YOLO</strong></p>
-    <p>This project focuses on implementing YOLO (You Only Look Once) for real-time object detection.</p>
   </div>    
 
   <!-- ImageClassification Repo -->
@@ -66,8 +64,6 @@
     <a href="https://github.com/Kietnehi/ImageClassification">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=synthwave" />
     </a>
-    <p><strong>Image Classification</strong></p>
-    <p>A deep learning project aimed at classifying images into various categories using neural networks.</p>
   </div>
 
   <!-- WebScrapingAndMakePredict Repo -->
@@ -75,8 +71,6 @@
     <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
     </a>
-    <p><strong>Web Scraping and Make Prediction</strong></p>
-    <p>This project collects data from websites and uses it for predictive modeling.</p>
   </div>    
 
   <!-- DoAnFabricAgency Repo -->
@@ -84,8 +78,6 @@
     <a href="https://github.com/Kietnehi/DoAnFabricAgency">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
     </a>
-    <p><strong>Fabric Agency Management</strong></p>
-    <p>A system to manage inventory and orders for a fabric agency, built using modern web technologies.</p>
   </div>
 
   <!-- Fake-news-detection Repo -->
@@ -93,8 +85,6 @@
     <a href="https://github.com/Kietnehi/Fake-news-detection">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=blue" />
     </a>
-    <p><strong>Fake News Detection</strong></p>
-    <p>This project aims to detect fake news using Natural Language Processing (NLP) and machine learning models.</p>
   </div>
 
   <!-- Housing-price-prediction Repo -->
@@ -102,8 +92,6 @@
     <a href="https://github.com/Kietnehi/Housing_price_prediction">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
     </a>
-    <p><strong>Housing Price Prediction</strong></p>
-    <p>A machine learning project for predicting housing prices based on various features using regression models.</p>
   </div>
 
 </div>
