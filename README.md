@@ -32,20 +32,13 @@
 
 <!-- Right side: GIF -->
 <div style="flex: 1; padding-left: 20px;">
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
+  <p align="center"> 
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+  </p>
 </div>
 
 </div>
+
 
 
 
@@ -62,7 +55,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-  <a href="[https://github.com/Kietnehi/ObjectDetection_Using_YOLO](https://github.com/Kietnehi/ObjectDetection_Using_YOLO)">
+  <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
   </a>    
 
