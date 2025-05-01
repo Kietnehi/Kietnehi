@@ -62,7 +62,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-  <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
+  <a href="[https://github.com/Kietnehi/ObjectDetection_Using_YOLO](https://github.com/Kietnehi/ObjectDetection_Using_YOLO)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
   </a>    
 
