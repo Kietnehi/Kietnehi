@@ -1,5 +1,9 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Phu Kiet. I am currently student at SaiGon University and major in Information Technology (IT) . I am interested in the following topics: Deep Learning for Computer Visio,Machine Learning.<br>
+👋 Hi there! I'm Phu Kiet
+
+🎓 I’m currently a student at **Saigon University**, majoring in **Information Technology (IT)**.  
+💡 I’m deeply interested in **Machine Learning**, especially **Deep Learning for Computer Vision**.  
+🚀 I enjoy exploring how machines can understand and process visual data just like humans do.
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kiet-truong-63b302306/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]() <a href="https://www.instagram.com/kitnehi_18/">
