@@ -12,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />Instagram
 </a>
 
-
+ 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1N_EupM1hDMSUKSNkxew64y0yf-3WW0S3/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kitnehi_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiet-truong-63b302306/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:truongquockiet1211@gmail.com) 
