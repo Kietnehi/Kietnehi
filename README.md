@@ -25,9 +25,14 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats-p46j.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Kietnehi" width="100%"/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Kietnehi&theme=dark&hide_border=false" alt="Kietnehi Streak" width="100%"/><br/>
-      <img src="https://github-readme-stats-p46j.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kietnehi Languages" width="100%"/>
+      <!-- Stats -->
+      <img src="https://github-readme-stats-p46j.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="Kietnehi" width="100%"/><br/>
+
+      <!-- Streak -->
+      <img src="https://streak-stats.demolab.com?user=Kietnehi&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" alt="Kietnehi Streak" width="100%"/><br/>
+
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats-p46j.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=518400" alt="Kietnehi Languages" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -57,25 +62,27 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
+    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko&cache_seconds=864000" />
   </a>    
 
   <a href="https://github.com/Kietnehi/ImageClassification">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko" />
+    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko&cache_seconds=864000" />
   </a>
 
   <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
+    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox&cache_seconds=864000" />
   </a>    
 
   <a href="https://github.com/Kietnehi/DoAnFabricAgency">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
+    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark&cache_seconds=864000" />
   </a>
+
   <a href="https://github.com/Kietnehi/Fake-news-detection">
-      <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula" />
-    </a>
-     <a href="https://github.com/Kietnehi/Housing_price_prediction">
-      <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
-    </a>
+    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula&cache_seconds=864000" />
+  </a>
+
+  <a href="https://github.com/Kietnehi/Housing_price_prediction">
+    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical&cache_seconds=864000" />
+  </a>
 </div>
 
