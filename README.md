@@ -25,9 +25,14 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Kietnehi" width="100%"/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Kietnehi&theme=dark&hide_border=false" alt="Kietnehi Streak" width="100%"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kietnehi Languages" width="100%"/>
+      <!-- Stats -->
+      <img src="https://github-readme-stats-p46j.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="Kietnehi Stats" width="100%"/><br/>
+      
+      <!-- Streak -->
+      <img src="https://streak-stats.demolab.com?user=Kietnehi&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" alt="Kietnehi Streak" width="100%"/><br/>
+      
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats-p46j.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&layout=compact&langs_count=8&cache_seconds=144000" alt="Kietnehi Languages" width="100%"/>
     </td>
     <td>
       <p align="center"> 
