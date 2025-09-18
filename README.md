@@ -45,11 +45,13 @@
 
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Kietnehi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
@@ -67,15 +69,11 @@
   <a href="https://github.com/Kietnehi/DoAnFabricAgency">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
   </a>
-
   <a href="https://github.com/Kietnehi/Fake-news-detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula" />
-  </a>
-
-  <a href="https://github.com/Kietnehi/Housing_price_prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
-  </a>
-
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula" />
+    </a>
+     <a href="https://github.com/Kietnehi/Housing_price_prediction">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
+    </a>
 </div>
-
 
