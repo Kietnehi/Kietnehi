@@ -27,7 +27,7 @@
     <td>
       <img src="https://github-readme-stats-p46j.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Kietnehi" width="100%"/><br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Kietnehi&theme=dark&hide_border=false" alt="Kietnehi Streak" width="100%"/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kietnehi Languages" width="100%"/>
+      <img src="https://github-readme-stats-p46j.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kietnehi Languages" width="100%"/>
     </td>
     <td>
       <p align="center"> 
