@@ -79,6 +79,12 @@
     </a>
      <a href="https://github.com/Kietnehi/Housing_price_prediction">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
-    </a>
+<a href="https://github.com/ductoanoxo/sgu25_doan_ktpm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductoanoxo&repo=sgu25_doan_ktpm&theme=dracula" />
+</a>
+<a href="https://github.com/ductoanoxo/FOODFAST">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductoanoxo&repo=FOODFAST&theme=radical" />
+</a>
+
 </div>
 
