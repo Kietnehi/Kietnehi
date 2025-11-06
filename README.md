@@ -60,27 +60,25 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <a href="https://github.com/Kietnehi/ObjectDetection_Using_YOLO">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko&cache_seconds=864000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ObjectDetection_Using_YOLO&theme=merko" />
   </a>    
 
   <a href="https://github.com/Kietnehi/ImageClassification">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko&cache_seconds=864000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=ImageClassification&theme=merko" />
   </a>
 
   <a href="https://github.com/Kietnehi/WebScrapingAndMakePredict">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox&cache_seconds=864000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=WebScrapingAndMakePredict&theme=gruvbox" />
   </a>    
 
   <a href="https://github.com/Kietnehi/DoAnFabricAgency">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark&cache_seconds=864000" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=DoAnFabricAgency&theme=dark" />
   </a>
-
   <a href="https://github.com/Kietnehi/Fake-news-detection">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula&cache_seconds=864000" />
-  </a>
-
-  <a href="https://github.com/Kietnehi/Housing_price_prediction">
-    <img align="center" src="https://github-readme-stats-p46j.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical&cache_seconds=864000" />
-  </a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Fake-news-detection&theme=dracula" />
+    </a>
+     <a href="https://github.com/Kietnehi/Housing_price_prediction">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Housing_price_prediction&theme=radical" />
+    </a>
 </div>
 
