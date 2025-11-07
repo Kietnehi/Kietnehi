@@ -85,6 +85,15 @@
 <a href="https://github.com/ductoanoxo/FOODFAST">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductoanoxo&repo=FOODFAST&theme=radical" />
 </a>
+<a href="https://github.com/Kietnehi/Python_2025_SGU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=Python_2025_SGU&theme=dracula" />
+</a>
+<a href="https://github.com/Kietnehi/C-s-d-li-u-ph-n-t-n-SGU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=C-s-d-li-u-ph-n-t-n-SGU&theme=radical" />
+</a>
+<a href="https://github.com/Kietnehi/sgu25_KTPM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kietnehi&repo=sgu25_KTPM&theme=tokyonight" />
+</a>
 
 </div>
 
