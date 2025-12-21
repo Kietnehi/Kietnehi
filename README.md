@@ -8,33 +8,30 @@
 🚀 I enjoy exploring how machines can understand and process visual data just like humans do.
 ## 📫 How to reach me
 
-🌐 **Portfolio Website**  
-🔗 https://kietnehi.github.io/kietnehi1211/
+<p align="center">
+  <a href="https://kietnehi.github.io/kietnehi1211/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kiet-truong-63b302306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kietnehi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kitnehi_18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:truongquockiet1211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-💼 **LinkedIn**  
-🔗 https://www.linkedin.com/in/kiet-truong-63b302306/
+<p align="center">
+  <a href="https://drive.google.com/file/d/1aX361jTHc0TKhQ3ktOA2mtMEC_wD83mq/view?usp=sharing" target="_blank">
+    📄 View My Résumé
+  </a>
+</p>
 
-💻 **GitHub**  
-🔗 https://github.com/kietnehi
-
-📸 **Instagram**  
-🔗 https://www.instagram.com/kitnehi_18/
-
-📧 **Email**  
-✉️ mailto:truongquockiet1211@gmail.com
-
-📄 **Résumé / CV**  
-📎 https://drive.google.com/file/d/1aX361jTHc0TKhQ3ktOA2mtMEC_wD83mq/view?usp=sharing
-
----
-
-### 🌐 Socials (Badge Version – nhìn đẹp trên GitHub)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kietnehi.github.io/kietnehi1211/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiet-truong-63b302306/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kietnehi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kitnehi_18/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truongquockiet1211@gmail.com)
 
 
 # 💻 Tech Stack:
