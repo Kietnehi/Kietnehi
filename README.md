@@ -138,21 +138,23 @@
 
 ## 🤝 Let’s Connect & Collaborate
 
-
-
 <p align="center">
-  💼 I'm always open to opportunities in <b>AI / Machine Learning / Computer Vision</b><br/>
-  🤝 Feel free to connect with me for collaboration, research, or interesting projects<br/>
-  📬 Let's build impactful and meaningful technology together
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  <sub>✨ Thanks for visiting my GitHub profile ✨</sub>
+  💼 <b>Open to opportunities</b> in <b>AI · Machine Learning · Computer Vision</b><br/>
+  🤝 Looking for <b>collaboration, research, internships & real-world projects</b><br/>
+  🚀 Passionate about building <b>impactful and meaningful AI solutions</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-0EA5E9?style=flat-square&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-22C55E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-38BDF8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-0EA5E9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-38BDF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0B1220?style=for-the-badge&logo=nvidia&logoColor=green"/>
+</p>
+
+<p align="center">
+  <sub>✨ Thanks for visiting my GitHub — let’s build something awesome together ✨</sub>
 </p>
