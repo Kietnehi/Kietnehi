@@ -1,5 +1,9 @@
 
 [![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kietnehi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### WELCOME TO MY PAGE 👋👋👋
 👋 Hi there! I'm Phu Kiet
 
