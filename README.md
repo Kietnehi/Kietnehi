@@ -54,7 +54,7 @@
 
 
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
 
 <p align="center">
   <!-- Languages -->
