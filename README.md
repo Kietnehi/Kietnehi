@@ -103,6 +103,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="46"/>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Kietnehi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📂 Repositories
+
+- 🤖 [AI-AGENT](https://github.com/Kietnehi/AI-AGENT) - Multi-purpose AI assistant integrating Gemini, Whisper, OCR, search, and data analysis, built with FastAPI and React.
+- 🧠 [RAG (Retrieval-Augmented Generation)](https://github.com/Kietnehi/RAG) - Full-stack Dockerized RAG system with multi-LLM support, vector search, vision AI, and Gemini real-time web search.
+- 🌐 [Crawl4AI-Website](https://github.com/Kietnehi/Crawl4AI-Website) - Web-based crawler for single pages or entire websites, exporting results as Markdown and JSON for AI research.
+- 💻 [Copilot_Visual_Online](https://github.com/Kietnehi/Copilot_Visual_Online) - Browser-based VS Code–like editor with live preview and AI copilot using embeddings and Gemini.
+- 🧪 [Test-Model-In-Github](https://github.com/Kietnehi/Test-Model-In-Github) - Experimental repository for testing and evaluating open-source AI models, tools, and APIs.
+- 🌍 [Translation_Generation](https://github.com/Kietnehi/Translation_Generation) - Lightweight multilingual translation app using Tencent HY-MT1.5 with customizable system prompts.
+- 📝 [NLP_Machine_Translation_EN-FR](https://github.com/Kietnehi/NLP_Machine_Translation_EN-FR) - PyTorch-based English–French NMT system with training pipeline, BLEU evaluation, and Docker support.
+- 👁️ [FaceRecognition_WEB](https://github.com/Kietnehi/FaceRecognition_WEB) - Real-time face recognition and DeepFace analysis web app built with Flask and OpenCV.
+- 🍔 [FOODFAST](https://github.com/Kietnehi/FOODFAST) - Full-stack food delivery platform with drone management using MERN, Docker, Kubernetes, CI/CD, and AWS.
+- 🎥 [Smart-Youtube](https://github.com/Kietnehi/Smart-Youtube) - AI-powered YouTube analysis tool using Gemini and Whisper for transcripts, summaries, chapters, and translations.
+- 🎵 [AudioToSongYoutube](https://github.com/Kietnehi/AudioToSongYoutube) - Audio transcription app using Whisper with automatic YouTube song and video matching.
+- 🛒 [Software Architecture (SGU)](https://github.com/ductoanoxo/sgu25_doan_ktpm) - Full-stack e-commerce monorepo using React, Node.js, MongoDB, Docker, CI/CD, and Prometheus/Grafana.
+- 🔥 [Object Detection Using YOLO](https://github.com/Kietnehi/ObjectDetection_Using_YOLO) - Streamlit app using a custom YOLOv11 model for real-time fire detection in images and videos.
+- 🚁 [UAV_Danger_Detection](https://github.com/Kietnehi/UAV_Danger_Detection) - Real-time people detection system using YOLO, FastAPI WebSockets, and React with live video streaming.
+- ⚽ [WebScrapingAndMakePredict](https://github.com/Kietnehi/WebScrapingAndMakePredict) - Python project for scraping football data and training machine learning models for match prediction.
+- 😊 [Image Classification](https://github.com/Kietnehi/ImageClassification) - Streamlit-based CNN application for emotion classification (Happy / Sad).
+- 📰 [Fake News Detection](https://github.com/Kietnehi/Fake-news-detection) - NLP-based system for detecting misinformation and fake news.
+- 🏠 [Housing Price Prediction](https://github.com/Kietnehi/Housing_price_prediction) - Machine learning regression model for predicting house prices from property features.
+- 🧵 [DoAnFabricAgency](https://github.com/Kietnehi/DoAnFabricAgency) - Enterprise management system for fabric agency operations.
+- 📘 [Python 2025 SGU](https://github.com/Kietnehi/Python_2025_SGU) - Comprehensive learning repository covering Python, machine learning, and modern deep learning.
+- 🗄️ [Distributed Database Systems (SGU)](https://github.com/Kietnehi/C-s-d-li-u-ph-n-t-n-SGU) - Distributed database implementations using SQL Server replication, Hadoop/MapReduce, Docker, and AWS.
+
 ## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kietnehi&theme=react-dark)
@@ -137,32 +163,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kietnehi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📂 Repositories
-
-- 🤖 [AI-AGENT](https://github.com/Kietnehi/AI-AGENT) - Multi-purpose AI assistant integrating Gemini, Whisper, OCR, search, and data analysis, built with FastAPI and React.
-- 🧠 [RAG (Retrieval-Augmented Generation)](https://github.com/Kietnehi/RAG) - Full-stack Dockerized RAG system with multi-LLM support, vector search, vision AI, and Gemini real-time web search.
-- 🌐 [Crawl4AI-Website](https://github.com/Kietnehi/Crawl4AI-Website) - Web-based crawler for single pages or entire websites, exporting results as Markdown and JSON for AI research.
-- 💻 [Copilot_Visual_Online](https://github.com/Kietnehi/Copilot_Visual_Online) - Browser-based VS Code–like editor with live preview and AI copilot using embeddings and Gemini.
-- 🧪 [Test-Model-In-Github](https://github.com/Kietnehi/Test-Model-In-Github) - Experimental repository for testing and evaluating open-source AI models, tools, and APIs.
-- 🌍 [Translation_Generation](https://github.com/Kietnehi/Translation_Generation) - Lightweight multilingual translation app using Tencent HY-MT1.5 with customizable system prompts.
-- 📝 [NLP_Machine_Translation_EN-FR](https://github.com/Kietnehi/NLP_Machine_Translation_EN-FR) - PyTorch-based English–French NMT system with training pipeline, BLEU evaluation, and Docker support.
-- 👁️ [FaceRecognition_WEB](https://github.com/Kietnehi/FaceRecognition_WEB) - Real-time face recognition and DeepFace analysis web app built with Flask and OpenCV.
-- 🍔 [FOODFAST](https://github.com/Kietnehi/FOODFAST) - Full-stack food delivery platform with drone management using MERN, Docker, Kubernetes, CI/CD, and AWS.
-- 🎥 [Smart-Youtube](https://github.com/Kietnehi/Smart-Youtube) - AI-powered YouTube analysis tool using Gemini and Whisper for transcripts, summaries, chapters, and translations.
-- 🎵 [AudioToSongYoutube](https://github.com/Kietnehi/AudioToSongYoutube) - Audio transcription app using Whisper with automatic YouTube song and video matching.
-- 🛒 [Software Architecture (SGU)](https://github.com/ductoanoxo/sgu25_doan_ktpm) - Full-stack e-commerce monorepo using React, Node.js, MongoDB, Docker, CI/CD, and Prometheus/Grafana.
-- 🔥 [Object Detection Using YOLO](https://github.com/Kietnehi/ObjectDetection_Using_YOLO) - Streamlit app using a custom YOLOv11 model for real-time fire detection in images and videos.
-- 🚁 [UAV_Danger_Detection](https://github.com/Kietnehi/UAV_Danger_Detection) - Real-time people detection system using YOLO, FastAPI WebSockets, and React with live video streaming.
-- ⚽ [WebScrapingAndMakePredict](https://github.com/Kietnehi/WebScrapingAndMakePredict) - Python project for scraping football data and training machine learning models for match prediction.
-- 😊 [Image Classification](https://github.com/Kietnehi/ImageClassification) - Streamlit-based CNN application for emotion classification (Happy / Sad).
-- 📰 [Fake News Detection](https://github.com/Kietnehi/Fake-news-detection) - NLP-based system for detecting misinformation and fake news.
-- 🏠 [Housing Price Prediction](https://github.com/Kietnehi/Housing_price_prediction) - Machine learning regression model for predicting house prices from property features.
-- 🧵 [DoAnFabricAgency](https://github.com/Kietnehi/DoAnFabricAgency) - Enterprise management system for fabric agency operations.
-- 📘 [Python 2025 SGU](https://github.com/Kietnehi/Python_2025_SGU) - Comprehensive learning repository covering Python, machine learning, and modern deep learning.
-- 🗄️ [Distributed Database Systems (SGU)](https://github.com/Kietnehi/C-s-d-li-u-ph-n-t-n-SGU) - Distributed database implementations using SQL Server replication, Hadoop/MapReduce, Docker, and AWS.
-
 
 ---
 
