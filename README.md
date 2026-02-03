@@ -190,3 +190,5 @@
   <sub>✨ Thanks for visiting my GitHub — let’s build something awesome together ✨</sub>
 </p>
 ![Trophy](https://github.com/Kietnehi/Kietnehi/blob/master/trophy.svg)
+
+![My Trophies](./github-trophies.svg)
