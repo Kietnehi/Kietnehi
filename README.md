@@ -4,7 +4,7 @@
 
 ![](https://github-trophies.vercel.app/?username=Kietnehi)
 
-
+<!-- ![My Trophies](./assets/trophy.svg) -->
 ### WELCOME TO MY PAGE 👋👋👋
 👋 Hi there! I'm Phu Kiet
 
@@ -189,7 +189,5 @@
 <p align="center">
   <sub>✨ Thanks for visiting my GitHub — let’s build something awesome together ✨</sub>
 </p>
-![Trophy](https://github.com/Kietnehi/Kietnehi/blob/master/trophy.svg)
 
-![My Trophies](./github-trophies.svg)
 ![My Trophies](./assets/trophy.svg)
