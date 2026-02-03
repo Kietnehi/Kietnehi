@@ -192,3 +192,4 @@
 ![Trophy](https://github.com/Kietnehi/Kietnehi/blob/master/trophy.svg)
 
 ![My Trophies](./github-trophies.svg)
+![My Trophies](./assets/trophy.svg)
