@@ -10,17 +10,21 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
+      - name: Clean up old paths
+        run: |
+          rm -rf my_trophies.svg # Xóa sạch nếu lỡ có thư mục trùng tên
+      
       - name: Generate Trophy
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Kietnehi
-          output_path: github-trophies.svg # Đổi tên ở đây
+          output_path: my_trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-trophies.svg # Đổi tên ở đây
+          git add my_trophies.svg
           git commit -m "Update trophy" || exit 0
-          git push origin master
+          git push
