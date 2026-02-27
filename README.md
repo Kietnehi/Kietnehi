@@ -112,7 +112,7 @@
 - 🧠 [RAG (Retrieval-Augmented Generation)](https://github.com/Kietnehi/RAG) - Full-stack Dockerized RAG system with multi-LLM support, vector search, vision AI, and Gemini real-time web search.
 - 🌐 [Crawl4AI-Website](https://github.com/Kietnehi/Crawl4AI-Website) - Web-based crawler for single pages or entire websites, exporting results as Markdown and JSON for AI research.
 - 💻 [Copilot_Visual_Online](https://github.com/Kietnehi/Copilot_Visual_Online) - Browser-based VS Code–like editor with live preview and AI copilot using embeddings and Gemini.
-- 🧪 [Test-Model-In-Github](https://github.com/Kietnehi/Test-Model-In-Github) - Experimental repository for testing and evaluating open-source AI models, tools, and APIs.
+- 🧪 [Python-Labs](https://github.com/Kietnehi/Python-Labs) - Experimental repository for testing and evaluating open-source AI models, tools, and APIs.
 - 🌍 [Translation_Generation](https://github.com/Kietnehi/Translation_Generation) - Lightweight multilingual translation app using Tencent HY-MT1.5 with customizable system prompts.
 - 📝 [NLP_Machine_Translation_EN-FR](https://github.com/Kietnehi/NLP_Machine_Translation_EN-FR) - PyTorch-based English–French NMT system with training pipeline, BLEU evaluation, and Docker support.
 - 👁️ [FaceRecognition_WEB](https://github.com/Kietnehi/FaceRecognition_WEB) - Real-time face recognition and DeepFace analysis web app built with Flask and OpenCV.
