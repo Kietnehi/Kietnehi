@@ -1,4 +1,29 @@
+<!-- ===== Contact / Social (NO raw links) ===== -->
+## 📫 How to reach me
 
+<p align="center">
+  <a href="https://kietnehi.github.io/kietnehi1211/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
+  </a>
+  <a href="https://www.linkedin.com/in/kiet-truong-63b302306/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/kietnehi" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.instagram.com/kitnehi_18/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="mailto:truongquockiet1211@gmail.com">
+    <img height="40" src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1aX361jTHc0TKhQ3ktOA2mtMEC_wD83mq/view?usp=sharing" target="_blank">
+    <img height="44" src="https://img.shields.io/badge/View%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=FFFFFF" />
+  </a>
+</p>
 [![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
 ## 🏆 GitHub Achievements
 
@@ -26,32 +51,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:0EA5E9&height=2&section=footer" />
 </p>
 
-<!-- ===== Contact / Social (NO raw links) ===== -->
-## 📫 How to reach me
 
-<p align="center">
-  <a href="https://kietnehi.github.io/kietnehi1211/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
-  </a>
-  <a href="https://www.linkedin.com/in/kiet-truong-63b302306/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://github.com/kietnehi" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://www.instagram.com/kitnehi_18/" target="_blank">
-    <img height="40" src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="mailto:truongquockiet1211@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1aX361jTHc0TKhQ3ktOA2mtMEC_wD83mq/view?usp=sharing" target="_blank">
-    <img height="44" src="https://img.shields.io/badge/View%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=FFFFFF" />
-  </a>
-</p>
 
 
 
