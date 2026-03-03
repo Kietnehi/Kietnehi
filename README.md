@@ -1,3 +1,6 @@
+
+[![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
+
 <!-- ===== Contact / Social (NO raw links) ===== -->
 ## 📫 How to reach me
 
@@ -25,7 +28,6 @@
   </a>
 </p>
 
-[![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
 ## 🏆 GitHub Achievements
 
 ![](https://github-trophies.vercel.app/?username=Kietnehi)
