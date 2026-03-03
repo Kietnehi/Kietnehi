@@ -24,6 +24,7 @@
     <img height="44" src="https://img.shields.io/badge/View%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=FFFFFF" />
   </a>
 </p>
+
 [![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
 ## 🏆 GitHub Achievements
 
