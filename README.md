@@ -1,3 +1,23 @@
+### WELCOME TO MY PAGE 👋👋👋
+👋 Hi there! I'm Phu Kiet
+
+🎓 I’m currently a student at **Saigon University**, majoring in **Information Technology (IT)**.  
+💡 I’m deeply interested in **Machine Learning**, especially **Deep Learning for Computer Vision**.  
+🚀 I enjoy exploring how machines can understand and process visual data just like humans do.
+<!-- ===== Animated Header (theme theo website: dark + cyan/blue) ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0EA5E9,100:22C55E&height=150&section=header&text=Kiet%20Truong&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kiet+Truong+%F0%9F%91%8B;IT+Student+%40+Saigon+University+(SGU);Focus%3A+AI%2FML+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision;Let%27s+build+something+awesome+%E2%9C%A8" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:0EA5E9&height=2&section=footer" />
+</p>
 
 [![Kietnehi](https://datalushq.com/wp-content/uploads/2022/07/icon_2.gif)](https://github.com/Kietnehi)
 
@@ -33,26 +53,6 @@
 ![](https://github-trophies.vercel.app/?username=Kietnehi)
 
 <!-- ![My Trophies](./assets/trophy.svg) -->
-### WELCOME TO MY PAGE 👋👋👋
-👋 Hi there! I'm Phu Kiet
-
-🎓 I’m currently a student at **Saigon University**, majoring in **Information Technology (IT)**.  
-💡 I’m deeply interested in **Machine Learning**, especially **Deep Learning for Computer Vision**.  
-🚀 I enjoy exploring how machines can understand and process visual data just like humans do.
-<!-- ===== Animated Header (theme theo website: dark + cyan/blue) ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,60:0EA5E9,100:22C55E&height=150&section=header&text=Kiet%20Truong&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Kiet+Truong+%F0%9F%91%8B;IT+Student+%40+Saigon+University+(SGU);Focus%3A+AI%2FML+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision;Let%27s+build+something+awesome+%E2%9C%A8" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:0EA5E9&height=2&section=footer" />
-</p>
 
 
 
