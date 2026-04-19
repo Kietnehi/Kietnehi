@@ -110,7 +110,7 @@
 [![](https://visitcount.itsvg.in/api?id=Kietnehi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📂 Repositories
-
+- 🎓 [AI-FOR-EDUCATION](https://github.com/Kietnehi/AI-FOR-EDUCATION) - AI Learning Studio, an end-to-end educational platform for personalized learning, practice, revision, and exam preparation.
 - 🤖 [AI-AGENT](https://github.com/Kietnehi/AI-AGENT) - Multi-purpose AI assistant integrating Gemini, Whisper, OCR, search, and data analysis, built with FastAPI and React.
 - 🧠 [RAG (Retrieval-Augmented Generation)](https://github.com/Kietnehi/RAG) - Full-stack Dockerized RAG system with multi-LLM support, vector search, vision AI, and Gemini real-time web search.
 - 🌐 [Crawl4AI-Website](https://github.com/Kietnehi/Crawl4AI-Website) - Web-based crawler for single pages or entire websites, exporting results as Markdown and JSON for AI research.
