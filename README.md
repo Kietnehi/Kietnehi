@@ -190,7 +190,7 @@
 </p>
 
 <p align="center">
-  <sub>✨ Thanks for visiting my GitHub — let’s build something awesome together ✨</sub>
+  <sub>✨ Thanks for visiting my GitHub — let’s build something awesome together. ✨</sub>
 </p>
 
 <!-- ![My Trophies](./assets/trophy.svg) -->
