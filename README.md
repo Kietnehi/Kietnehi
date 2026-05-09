@@ -113,6 +113,7 @@
 - 🎓 [AI-FOR-EDUCATION](https://github.com/Kietnehi/AI-FOR-EDUCATION) - AI Learning Studio, an end-to-end educational platform for personalized learning, practice, revision, and exam preparation.
 - 🤖 [AI-AGENT](https://github.com/Kietnehi/AI-AGENT) - Multi-purpose AI assistant integrating Gemini, Whisper, OCR, search, and data analysis, built with FastAPI and React.
 - 🧠 [RAG (Retrieval-Augmented Generation)](https://github.com/Kietnehi/RAG) - Full-stack Dockerized RAG system with multi-LLM support, vector search, vision AI, and Gemini real-time web search.
+- 📚 [MicroBooks v2.0](https://github.com/phatle224/micro_books) - Event-driven microservices bookstore using FastAPI + Next.js, Kafka messaging, Docker/Kubernetes, and end-to-end monitoring (metrics, logs, traces).
 - 🌐 [Crawl4AI-Website](https://github.com/Kietnehi/Crawl4AI-Website) - Web-based crawler for single pages or entire websites, exporting results as Markdown and JSON for AI research.
 - 💻 [Copilot_Visual_Online](https://github.com/Kietnehi/Copilot_Visual_Online) - Browser-based VS Code–like editor with live preview and AI copilot using embeddings and Gemini.
 - 🧪 [Python-Labs](https://github.com/Kietnehi/Python-Labs) - Experimental repository for testing and evaluating open-source AI models, tools, and APIs.
