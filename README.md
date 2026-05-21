@@ -112,6 +112,7 @@
 ## 📂 Repositories
 - 🎓 [AI-FOR-EDUCATION](https://github.com/Kietnehi/AI-FOR-EDUCATION) - AI Learning Studio, an end-to-end educational platform for personalized learning, practice, revision, and exam preparation.
 - 🤖 [AI-AGENT](https://github.com/Kietnehi/AI-AGENT) - Multi-purpose AI assistant integrating Gemini, Whisper, OCR, search, and data analysis, built with FastAPI and React.
+- 🧪 [Agent_SQL](https://github.com/ductoanoxo/Agent_SQL) - Multi-agent NL2SQL system that converts natural language questions into safe SQL queries, supports multiple databases, and runs with FastAPI, Next.js, Docker, and AI agents.
 - 🧠 [RAG (Retrieval-Augmented Generation)](https://github.com/Kietnehi/RAG) - Full-stack Dockerized RAG system with multi-LLM support, vector search, vision AI, and Gemini real-time web search.
 - 📚 [MicroBooks v2.0](https://github.com/phatle224/micro_books) - Event-driven microservices bookstore using FastAPI + Next.js, Kafka messaging, Docker/Kubernetes, and end-to-end monitoring (metrics, logs, traces).
 - 🌐 [Crawl4AI-Website](https://github.com/Kietnehi/Crawl4AI-Website) - Web-based crawler for single pages or entire websites, exporting results as Markdown and JSON for AI research.
