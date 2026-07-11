@@ -140,29 +140,29 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kietnehi&theme=react-dark)
 
 ---
-# 📊 GitHub Stats: 
+## 📊 GitHub Statistics
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-p46j.vercel.app/api?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400" alt="Kietnehi" width="100%"/><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Kietnehi&theme=dark&hide_border=false&cache_seconds=86400" alt="Kietnehi Streak" width="100%"/><br/>
-      <img src="https://github-readme-stats-p46j.vercel.app/api/top-langs/?username=Kietnehi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Kietnehi Languages&cache_seconds=86400" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=Kietnehi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=en"
+    alt="Kietnehi GitHub Statistics"
+  />
 
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kietnehi&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500"
+    alt="Kietnehi Top Languages"
+  />
+</p>
 
-
-
-
-
-
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=Kietnehi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="Kietnehi GitHub Streak"
+  />
+</p>
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ---
