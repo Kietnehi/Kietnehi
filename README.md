@@ -142,33 +142,28 @@
 ---
 ## 📊 GitHub Statistics
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api?username=Kietnehi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&number_format=long&show=reviews,prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=en"
-        alt="Kietnehi GitHub Statistics"
-      />
-    </td>
+<div align="center">
+  <img
+    height="190"
+    src="https://github-stats-extended.vercel.app/api?username=Kietnehi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;number_format=long&amp;show=reviews,prs_merged,prs_merged_percentage&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;locale=en"
+    alt="Kietnehi GitHub Statistics"
+  />
+  <img
+    height="190"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kietnehi&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=10&amp;card_width=400"
+    alt="Kietnehi Top Languages"
+  />
+</div>
 
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kietnehi&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500"
-        alt="Kietnehi Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<br />
 
-<p align="center">
+<div align="center">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com/?user=Kietnehi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com/?user=Kietnehi&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D"
     alt="Kietnehi GitHub Streak"
   />
-</p>
+</div>
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ---
