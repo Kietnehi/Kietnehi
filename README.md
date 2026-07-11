@@ -175,8 +175,22 @@
 
 ## 🤝 Let’s Connect & Collaborate
 
+<!-- AI Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
+    width="620"
+    alt="AI and Data Analysis Workspace"
+  />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+    alt="Animated Divider"
+  />
 </p>
 
 <p align="center">
