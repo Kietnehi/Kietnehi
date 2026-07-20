@@ -43,9 +43,15 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1aX361jTHc0TKhQ3ktOA2mtMEC_wD83mq/view?usp=sharing" target="_blank">
-    <img height="44" src="https://img.shields.io/badge/View%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=FFFFFF" />
-  </a>
+<a href="https://drive.google.com/file/d/13rMXqdTaWGxyvgZjSiBm9p6eP9Vc_yzO/view"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img
+    height="44"
+    src="https://img.shields.io/badge/View%20Resume-0EA5E9?style=for-the-badge&logo=googledrive&logoColor=FFFFFF"
+    alt="View Resume"
+  />
+</a>
 </p>
 
 ## 🏆 GitHub Achievements
